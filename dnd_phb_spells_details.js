@@ -33,7 +33,10 @@ article_nodes.forEach(e => {
     } else {
         switch (state) {
             case (LEVEL_SCHOOL_RITUAL):
-                spellsDetails[spell_index].levelSchool = e.innerText;
+                if(e.innerText === '') {
+                    break;
+                }
+                spellsDetails[spell_index].levelSchoolRitual = e.innerText;
                 state = nextState.LEVEL_SCHOOL_RITUAL;
                 break;
             case (CASTINGTIME):
