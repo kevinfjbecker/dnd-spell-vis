@@ -342,13 +342,12 @@
     },
     {
         "name": "Barkskin",
-        "levelSchool": "",
-        "castingTime": "2nd-level transmutation",
-        "range": "Casting Time: 1 action",
-        "components": "Range: Touch",
-        "duration": "Components: V, S, M (a handful of oak bark)",
+        "levelSchool": "2nd-level transmutation",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: Touch",
+        "components": "Components: V, S, M (a handful of oak bark)",
+        "duration": "Duration: Concentration, up to 1 hour",
         "details": [
-            "Duration: Concentration, up to 1 hour",
             "You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing."
         ]
     },
@@ -516,13 +515,12 @@
     },
     {
         "name": "Burning Hands",
-        "levelSchool": "",
-        "castingTime": "1st-level evocation",
-        "range": "Casting Time: 1 action",
-        "components": "Range: Self (15-foot cone)",
-        "duration": "Components: V, S",
+        "levelSchool": "1st-level evocation",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: Self (15-foot cone)",
+        "components": "Components: V, S",
+        "duration": "Duration: Instantaneous",
         "details": [
-            "Duration: Instantaneous",
             "As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.",
             "The fire ignites any flammable objects in the area that aren’t being worn or carried.",
             "At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
@@ -667,13 +665,12 @@
     },
     {
         "name": "Cloudkill",
-        "levelSchool": "",
-        "castingTime": "5th-level conjuration",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 120 feet",
-        "duration": "Components: V, S",
+        "levelSchool": "5th-level conjuration",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 120 feet",
+        "components": "Components: V, S",
+        "duration": "Duration: Concentration, up to 10 minutes",
         "details": [
-            "Duration: Concentration, up to 10 minutes",
             "You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.",
             "When a creature enters the spell’s area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don’t need to breathe.",
             "The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.",
@@ -1269,13 +1266,12 @@
     },
     {
         "name": "Dimension Door",
-        "levelSchool": "",
-        "castingTime": "4th-level conjuration",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 500 feet",
-        "duration": "Components: V",
+        "levelSchool": "4th-level conjuration",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 500 feet",
+        "components": "Components: V",
+        "duration": "Duration: Instantaneous",
         "details": [
-            "Duration: Instantaneous",
             "You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as “200 feet straight downward” or “upward to the northwest at a 45-degree angle, 300 feet.”",
             "You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.",
             "If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you."
@@ -1789,13 +1785,12 @@
     },
     {
         "name": "Fireball",
-        "levelSchool": "",
-        "castingTime": "3rd-level evocation",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 150 feet",
-        "duration": "Components: V, S, M (a tiny ball of bat guano and sulfur)",
+        "levelSchool": "3rd-level evocation",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 150 feet",
+        "components": "Components: V, S, M (a tiny ball of bat guano and sulfur)",
+        "duration": "Duration: Instantaneous",
         "details": [
-            "Duration: Instantaneous",
             "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.",
             "The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.",
             "At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
@@ -2151,13 +2146,12 @@
     },
     {
         "name": "Guardian of Faith",
-        "levelSchool": "",
-        "castingTime": "4th-level conjuration",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 30 feet",
-        "duration": "Components: V",
+        "levelSchool": "4th-level conjuration",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 30 feet",
+        "components": "Components: V",
+        "duration": "Duration: 8 hours",
         "details": [
-            "Duration: 8 hours",
             "A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.",
             "Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage."
         ]
@@ -2537,13 +2531,12 @@
     },
     {
         "name": "Insect Plague",
-        "levelSchool": "",
-        "castingTime": "5th-level conjuration",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 300 feet",
-        "duration": "Components: V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)",
+        "levelSchool": "5th-level conjuration",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 300 feet",
+        "components": "Components: V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)",
+        "duration": "Duration: Concentration, up to 10 minutes",
         "details": [
-            "Duration: Concentration, up to 10 minutes",
             "Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.",
             "When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.",
             "At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th."
@@ -3119,13 +3112,12 @@
     },
     {
         "name": "Mordenkainen’s Sword",
-        "levelSchool": "",
-        "castingTime": "7th-level evocation",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 60 feet",
-        "duration": "Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)",
+        "levelSchool": "7th-level evocation",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 60 feet",
+        "components": "Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)",
+        "duration": "Duration: Concentration, up to 1 minute",
         "details": [
-            "Duration: Concentration, up to 1 minute",
             "You create a sword-shaped plane of force that hovers within range. It lasts for the duration.",
             "When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one."
         ]
@@ -3416,13 +3408,12 @@
     },
     {
         "name": "Prismatic Spray",
-        "levelSchool": "",
-        "castingTime": "7th-level evocation",
-        "range": "Casting Time: 1 action",
-        "components": "Range: Self (60-foot cone)",
-        "duration": "Components: V, S",
+        "levelSchool": "7th-level evocation",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: Self (60-foot cone)",
+        "components": "Components: V, S",
+        "duration": "Duration: Instantaneous",
         "details": [
-            "Duration: Instantaneous",
             "Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.",
             "1. Red. The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.",
             "2. Orange. The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.",
@@ -3731,13 +3722,12 @@
     },
     {
         "name": "Scorching Ray",
-        "levelSchool": "",
-        "castingTime": "2nd-level evocation",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 120 feet",
-        "duration": "Components: V, S",
+        "levelSchool": "2nd-level evocation",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 120 feet",
+        "components": "Components: V, S",
+        "duration": "Duration: Instantaneous",
         "details": [
-            "Duration: Instantaneous",
             "You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.",
             "Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.",
             "At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd."
@@ -4600,13 +4590,12 @@
     },
     {
         "name": "Web",
-        "levelSchool": "",
-        "castingTime": "2nd-level conjuration",
-        "range": "Casting Time: 1 action",
-        "components": "Range: 60 feet",
-        "duration": "Components: V, S, M (a bit of spiderweb)",
+        "levelSchool": "2nd-level conjuration",
+        "castingTime": "Casting Time: 1 action",
+        "range": "Range: 60 feet",
+        "components": "Components: V, S, M (a bit of spiderweb)",
+        "duration": "Duration: Concentration, up to 1 hour",
         "details": [
-            "Duration: Concentration, up to 1 hour",
             "You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.",
             "If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.",
             "Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.",
